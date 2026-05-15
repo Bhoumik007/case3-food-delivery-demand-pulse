@@ -1,7 +1,6 @@
 # Case 3: Food Delivery Demand Pulse 📊
 
 **Live demo:** https://huggingface.co/spaces/Bhoumik007/food-demand-dashboard  
-**Demo video:** [https://www.loom.com/share/YOUR\_VIDEO\_ID](https://www.loom.com/share/YOUR_VIDEO_ID)
 
 ## What This Is
 
